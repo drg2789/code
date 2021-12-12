@@ -1,0 +1,2 @@
+n=input(int("join me"))
+print()[Dn)
